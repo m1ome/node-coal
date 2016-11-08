@@ -1,6 +1,6 @@
 {
   "name": "node-coal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redis based spinlock cache manager",
   "main": "lib/index.js",
   "repository": {
@@ -14,9 +14,9 @@
     "cache",
     "distributed",
     "nodejs",
-    "iojs"    
+    "iojs"
   ],
-  "author":{
+  "author": {
     "name": "Pavel Makarenko",
     "email": "cryfall@gmail.com"
   },
