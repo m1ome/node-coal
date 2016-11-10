@@ -1,6 +1,6 @@
 {
   "name": "node-coal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Redis based spinlock cache manager",
   "main": "lib/index.js",
   "repository": {
